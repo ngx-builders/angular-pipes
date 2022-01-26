@@ -1,4 +1,4 @@
-[![NPM Version](https://img.shields.io/npm/v/angular-pipes.svg)](https://www.npmjs.com/package/ngx2-pipes)
+[![NPM Version](https://img.shields.io/npm/v/ngx2-pipes.svg)](https://www.npmjs.com/package/ngx2-pipes)
 [![Downloads](https://img.shields.io/npm/dm/ngx2-pipes.svg)](https://npmjs.org/package/ngx2-pipes)
 
 ## This is a fork of the original repo and maintained, once the original author agrees to release the new version, the fork will be deleted. and the original repo will be updated. I will wait for few month to get the updaet from the original author. There is an issue logged for this https://github.com/fknop/angular-pipes/issues/113.
