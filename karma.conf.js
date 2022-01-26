@@ -15,8 +15,8 @@ module.exports = function(config) {
     },
 
     frameworks: ['jasmine', 'karma-typescript'],
-    browsers: ['Firefox'],
-    plugins: ['karma-jasmine', 'karma-spec-reporter', 'karma-firefox-launcher', 'karma-typescript'],
+    browsers: ['Chrome'],
+    plugins: ['karma-jasmine', 'karma-spec-reporter', 'karma-chrome-launcher',  'karma-typescript'],
 
     karmaTypescriptConfig: {
       reports: {

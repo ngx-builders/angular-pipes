@@ -1,10 +1,8 @@
-[![NPM Version](https://img.shields.io/npm/v/angular-pipes.svg)](https://npmjs.org/package/angular-pipes)
-[![Build Status](https://travis-ci.org/fknop/angular-pipes.svg?branch=master)](https://travis-ci.org/fknop/angular-pipes)
-[![Coverage Status](https://coveralls.io/repos/github/fknop/angular-pipes/badge.svg?branch=master)](https://coveralls.io/github/fknop/angular-pipes?branch=master)
-[![Downloads](https://img.shields.io/npm/dt/angular-pipes.svg)](https://npmjs.org/package/angular-pipes)
-[![Downloads](https://img.shields.io/npm/dm/angular-pipes.svg)](https://npmjs.org/package/angular-pipes)
+[![NPM Version](https://img.shields.io/npm/v/angular-pipes.svg)](https://www.npmjs.com/package/ngx2-pipes)
+[![Downloads](https://img.shields.io/npm/dm/ngx2-pipes.svg)](https://npmjs.org/package/ngx2-pipes)
 
-# Not actively maintained
+## This is a fork of the original repo and maintained, once the original author agrees to release the new version, the fork will be deleted. and the original repo will be updated. I will wait for few month to get the updaet from the original author. There is an issue logged for this https://github.com/fknop/angular-pipes/issues/113.
+
 
 # angular-pipes
 
